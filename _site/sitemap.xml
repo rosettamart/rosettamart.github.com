@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://rosettamart.co.kr/jekyll/update/welcome-to-jekyll/</loc>
-<lastmod>2021-02-07T00:02:53+09:00</lastmod>
+<loc>/jekyll/update/2021/02/07/welcome-to-jekyll.html</loc>
+<lastmod>2021-02-07T01:53:42+09:00</lastmod>
 </url>
 <url>
-<loc>http://rosettamart.co.kr/about/</loc>
+<loc>/about/</loc>
 </url>
 <url>
-<loc>http://rosettamart.co.kr/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>http://rosettamart.co.kr/</loc>
+<loc>/</loc>
 </url>
 </urlset>

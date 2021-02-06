@@ -1,1 +1,1 @@
-Sitemap: http://rosettamart.co.kr/sitemap.xml
+Sitemap: /sitemap.xml
